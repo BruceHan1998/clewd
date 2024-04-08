@@ -8,8 +8,8 @@
 module.exports = {
     "Cookie": "SET YOUR COOKIE HERE",
     "CookieArray": [
-        "sessionKey=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",
-        "sessionKey=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",
+        "sessionKey=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",
+        "sessionKey=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",
     ],
     "Cookiecounter": 3,
     "CookieIndex": 0,
